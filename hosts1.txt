@@ -1,0 +1,13 @@
+
+127.0.0.1 analyticsengine.s3.amazonaws.com
+127.0.0.1 affiliationjs.s3.amazonaws.com
+127.0.0.1 api.bugsnag.com
+127.0.0.1 app.bugsnag.com
+127.0.0.1 advertising.twitter.com
+127.0.0.1 widgets.pinterest.com
+127.0.0.1 d.reddit.com
+127.0.0.1 samsung-com.112.2o7.net
+127.0.0.1 metrics1.data.hicloud.com
+127.0.0.1 metrics2.data.hicloud.com
+127.0.0.1 metrics5.data.hicloud.com
+127.0.0.1 browser.sentry-cdn.com
